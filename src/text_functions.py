@@ -124,7 +124,7 @@ leniency_pos_raw = [
 
 leniency_neg_raw = [
     'harsh', 'harshly', 'graded harshly', 'harsh grader', 'harsh grading', 'tough grader',
-    'hard grader', 'strict', 'strict grader', 'picky', 'nitpicky', 'unreasonable', 'unfair',
+    'hard grader', 'strict', 'strict grader', 'picky', 'unreasonable', 'unfair',
     'subjective', 'inconsistent grading', 'deducts', 'takes off points', 'lose points',
     'low average', 'class average', 'grade deflation', 'impossible to get an a'
 ]
@@ -141,9 +141,9 @@ teaching_pos_raw = [
 
 teaching_neg_raw = [
     'confusing', 'unclear', 'disorganized', 'unorganized', 'boring', 'boring lectures',
-    'monotone', 'mumbles', 'rambles', 'rambling', 'tangents', 'reads off slides', 'just reads',
+    'monotone', 'mumbles', 'rambles', 'rambling', 'tangents', 'reads off slides',
     'reads slides', 'hard to follow', 'hard to understand', 'poor explanations', 'unprepared',
-    'pointless', 'useless', 'irrelevant', 'waste of time', 'teach yourself', 'self taught'
+    'pointless', 'useless', 'irrelevant', 'waste of time', 'self taught'
 ]
 
 
