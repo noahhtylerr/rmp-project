@@ -1,0 +1,7 @@
+# python and jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# materials and outlines
+docs/
