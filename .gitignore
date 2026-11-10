@@ -5,3 +5,6 @@ __pycache__/
 
 # materials and outlines
 docs/
+
+# api key
+.env
